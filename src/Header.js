@@ -7,7 +7,7 @@ function Header() {
   return (
   
       <div className="header">
-        <img src="/bootcamp/camp/public/iconfinder__amazon.com_1156738.png" />
+        <img src="/bootcamp/camp/public/iconfinder__amazon.com_1156738.png" alt="" />
      
       <div className="header_search">
         <input className="header_searchInput" type="text" />
